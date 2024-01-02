@@ -1,0 +1,2 @@
+String todayActivity = '';
+String sessionReport = '';
